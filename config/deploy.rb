@@ -77,7 +77,7 @@ set :scm,             :git
 # set :repository,      "ssh://#{user}@#{deploy_server}/home/#{user}/git/#{application}.git"
 
 ## Если ваш репозиторий в GitHub, используйте такую конфигурацию
-set :repository,    "git@github.com:aleontievme/aleontiev-me.git"
+set :repository,    "https://github.com/aleontievme/aleontiev-me.git"
 
 ## --- Ниже этого места ничего менять скорее всего не нужно ---
 
