@@ -37,7 +37,8 @@ gem 'git'
 gem 'rails_config'
 gem 'redcarpet'
 gem 'github-markup'
-
+gem 'capistrano'
+gem 'unicorn'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
